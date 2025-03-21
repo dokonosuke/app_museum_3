@@ -11,8 +11,9 @@ Use your smartphone as a light.
 ## Description
 
 Features
--You can use your smartphone as a light of any color you like in dark places.
--You can also use this app as a message board by displaying any text on a background of any color.
+
+- You can use your smartphone as a light of any color you like in dark places.
+- You can also use this app as a message board by displaying any text on a background of any color.
 
 ## Privacy Policy
 
