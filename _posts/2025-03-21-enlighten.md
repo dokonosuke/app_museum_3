@@ -4,8 +4,6 @@ title:  "Enlighten"
 categories: app
 ---
 
-# Enlighten
-
 Use your smartphone as a light.
 
 ## Description

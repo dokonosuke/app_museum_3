@@ -4,8 +4,6 @@ title:  "MenuMaker"
 categories: app
 ---
 
-# MenuMaker
-
 Create your own menu like fancy restaurants' one.
 
 After you enter dishes you make everyday, you can easily decide what to make looking at the menu.

@@ -4,8 +4,6 @@ title:  "HappyGift"
 categories: app
 ---
 
-# HappyGift
-
 Express your gratitude to people around you in a cool way.
 
 You can create, send, receive and use free e-gifts. 
